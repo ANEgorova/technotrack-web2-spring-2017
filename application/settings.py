@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'core.apps.CoreConfig',
     'user_content',
     'chat',
+    'likes',
 ]
 
 MIDDLEWARE = [
